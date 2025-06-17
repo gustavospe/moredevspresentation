@@ -5,7 +5,7 @@ Tenho 19 anos e atualmente atuo como **desenvolvedor back-end** e **DevOps**. So
 ## 🎓 Formação e Estudos Atuais
 
 - 🎓 **Faculdade:** Cursando **Sistemas de Informação** pela **PUC**.
-- 💻 **Curso:** *+Devs2Blue* — Aprofundando meus conhecimentos em **Java** e desenvolvimento backend.
+- 💻 **Curso:** *+Devs2Blu* — Aprofundando meus conhecimentos em **Java** e desenvolvimento backend.
 - 📱 **Programa Entra21:** Estudo **Flutter** durante o período da manhã.
 - 📚 Estudo contínuo de tecnologias front-end e back-end com foco em alcançar um nível avançado e completo como full stack developer.
 
